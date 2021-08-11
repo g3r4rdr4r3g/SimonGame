@@ -2,4 +2,4 @@
 Simon Memory Game Using jQuery
 (The most annoying task on Among Us)
 
-https://gerard-ac.github.io/SimonGame/
+https://g3r4rdr4r3g.github.io/SimonGame/
